@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "unbreakabletools",
+    "name": "Unbreakable Tools",
+    "description": "Adds tools that are basically unbreakable.",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Omg_ItzBunnyGirl"],
+    "credits": "The Forge and FML guys, for making the example mod and Cubicoder for making tutorials that I could follow to make this mod!",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

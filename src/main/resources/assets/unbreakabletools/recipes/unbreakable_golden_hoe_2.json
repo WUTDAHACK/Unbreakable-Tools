@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_hoe"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "nbt":
+      {
+         "ench": [
+            {
+               "id": 34,
+               "lvl": 3
+            }
+         ]
+      }
+    }
+  ],
+  "result": {
+    "item": "unbreakabletools:unbreakable_golden_hoe"
+  }
+}

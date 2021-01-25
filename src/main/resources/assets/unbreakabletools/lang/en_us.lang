@@ -1,0 +1,43 @@
+
+# Wood
+item.unbreakabletools.unbreakable_wooden_pickaxe.name=Unbreakable Wooden Pickaxe
+item.unbreakabletools.unbreakable_wooden_axe.name=Unbreakable Wooden Axe
+item.unbreakabletools.unbreakable_wooden_shovel.name=Unbreakable Wooden Shovel
+item.unbreakabletools.unbreakable_wooden_hoe.name=Unbreakable Wooden Hoe
+item.unbreakabletools.unbreakable_wooden_sword.name=Unbreakable Wooden Sword
+
+# Stone
+item.unbreakabletools.unbreakable_stone_pickaxe.name=Unbreakable Stone Pickaxe
+item.unbreakabletools.unbreakable_stone_axe.name=Unbreakable Stone Axe
+item.unbreakabletools.unbreakable_stone_shovel.name=Unbreakable Stone Shovel
+item.unbreakabletools.unbreakable_stone_hoe.name=Unbreakable Stone Hoe
+item.unbreakabletools.unbreakable_stone_sword.name=Unbreakable Stone Sword
+
+# Iron
+item.unbreakabletools.unbreakable_iron_pickaxe.name=Unbreakable Iron Pickaxe
+item.unbreakabletools.unbreakable_iron_axe.name=Unbreakable Iron Axe
+item.unbreakabletools.unbreakable_iron_shovel.name=Unbreakable Iron Shovel
+item.unbreakabletools.unbreakable_iron_hoe.name=Unbreakable Iron Hoe
+item.unbreakabletools.unbreakable_iron_sword.name=Unbreakable Iron Sword
+
+# Diamond
+item.unbreakabletools.unbreakable_diamond_pickaxe.name=Unbreakable Diamond Pickaxe
+item.unbreakabletools.unbreakable_diamond_axe.name=Unbreakable Diamond Axe
+item.unbreakabletools.unbreakable_diamond_shovel.name=Unbreakable Diamond Shovel
+item.unbreakabletools.unbreakable_diamond_hoe.name=Unbreakable Diamond Hoe
+item.unbreakabletools.unbreakable_diamond_sword.name=Unbreakable Diamond Sword
+
+# Gold
+item.unbreakabletools.unbreakable_golden_pickaxe.name=Unbreakable Golden Pickaxe
+item.unbreakabletools.unbreakable_golden_axe.name=Unbreakable Golden Axe
+item.unbreakabletools.unbreakable_golden_shovel.name=Unbreakable Golden Shovel
+item.unbreakabletools.unbreakable_golden_hoe.name=Unbreakable Golden Hoe
+item.unbreakabletools.unbreakable_golden_sword.name=Unbreakable Golden Sword
+
+# Other Tools
+item.unbreakabletools.unbreakable_shears.name=Unbreakable Shears
+item.unbreakabletools.unbreakable_fishing_rod.name=Unbreakable Fishing Rod
+item.unbreakabletools.unbreakable_bow.name=Unbreakable Bow
+
+# Creative Tab
+itemGroup.unbreakabletools=Unbreakable Tools
