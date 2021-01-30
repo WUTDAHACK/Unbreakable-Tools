@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "unbreakabletools:items/unbreakable_bow_standby"
+        "layer0": "unbreakabletools:items/unbreakable_bow"
     },
     "display": {
         "thirdperson_righthand": {
@@ -44,7 +44,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "unbreakabletools:item/unbreakable_bow_pulling_2"
+            "model": "unbreakable:item/unbreakable_bow_pulling_2"
         }
     ]
 }

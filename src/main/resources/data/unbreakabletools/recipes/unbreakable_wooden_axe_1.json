@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_axe"
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "nbt":
+      {
+         "enchantments": [
+            {
+               "id": "minecraft:unbreaking",
+               "lvl": 2
+            }
+         ]
+      }
+    }
+  ],
+  "result": {
+    "item": "unbreakabletools:unbreakable_wooden_axe"
+  }
+}

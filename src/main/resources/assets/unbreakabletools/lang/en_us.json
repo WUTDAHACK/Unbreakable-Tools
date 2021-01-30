@@ -1,0 +1,43 @@
+{
+  "item.unbreakabletools.unbreakable_wooden_pickaxe": "Unbreakable Wooden Pickaxe",
+  "item.unbreakabletools.unbreakable_wooden_axe": "Unbreakable Wooden Axe",
+  "item.unbreakabletools.unbreakable_wooden_shovel": "Unbreakable Wooden Shovel",
+  "item.unbreakabletools.unbreakable_wooden_hoe": "Unbreakable Wooden Hoe",
+  "item.unbreakabletools.unbreakable_wooden_sword": "Unbreakable Wooden Sword",
+
+  "item.unbreakabletools.unbreakable_stone_pickaxe": "Unbreakable Stone Pickaxe",
+  "item.unbreakabletools.unbreakable_stone_axe": "Unbreakable Stone Axe",
+  "item.unbreakabletools.unbreakable_stone_shovel": "Unbreakable Stone Shovel",
+  "item.unbreakabletools.unbreakable_stone_hoe": "Unbreakable Stone Hoe",
+  "item.unbreakabletools.unbreakable_stone_sword": "Unbreakable Stone Sword",
+
+  "item.unbreakabletools.unbreakable_iron_pickaxe": "Unbreakable Iron Pickaxe",
+  "item.unbreakabletools.unbreakable_iron_axe": "Unbreakable Iron Axe",
+  "item.unbreakabletools.unbreakable_iron_shovel": "Unbreakable Iron Shovel",
+  "item.unbreakabletools.unbreakable_iron_hoe": "Unbreakable Iron Hoe",
+  "item.unbreakabletools.unbreakable_iron_sword": "Unbreakable Iron Sword",
+
+  "item.unbreakabletools.unbreakable_diamond_pickaxe": "Unbreakable Diamond Pickaxe",
+  "item.unbreakabletools.unbreakable_diamond_axe": "Unbreakable Diamond Axe",
+  "item.unbreakabletools.unbreakable_diamond_shovel": "Unbreakable Diamond Shovel",
+  "item.unbreakabletools.unbreakable_diamond_hoe": "Unbreakable Diamond Hoe",
+  "item.unbreakabletools.unbreakable_diamond_sword": "Unbreakable Diamond Sword",
+
+  "item.unbreakabletools.unbreakable_golden_pickaxe": "Unbreakable Golden Pickaxe",
+  "item.unbreakabletools.unbreakable_golden_axe": "Unbreakable Golden Axe",
+  "item.unbreakabletools.unbreakable_golden_shovel": "Unbreakable Golden Shovel",
+  "item.unbreakabletools.unbreakable_golden_hoe": "Unbreakable Golden Hoe",
+  "item.unbreakabletools.unbreakable_golden_sword": "Unbreakable Golden Sword",
+
+  "item.unbreakabletools.unbreakable_netherite_pickaxe": "Unbreakable Netherite Pickaxe",
+  "item.unbreakabletools.unbreakable_netherite_axe": "Unbreakable Netherite Axe",
+  "item.unbreakabletools.unbreakable_netherite_shovel": "Unbreakable Netherite Shovel",
+  "item.unbreakabletools.unbreakable_netherite_hoe": "Unbreakable Netherite Hoe",
+  "item.unbreakabletools.unbreakable_netherite_sword": "Unbreakable Netherite Sword",
+
+  "item.unbreakabletools.unbreakable_shears": "Unbreakable Shears",
+  "item.unbreakabletools.unbreakable_fishing_rod": "Unbreakable Fishing Rod",
+  "item.unbreakabletools.unbreakable_bow": "Unbreakable Bow",
+
+  "itemGroup.unbreakabletools": "Unbreakable Tools"
+}

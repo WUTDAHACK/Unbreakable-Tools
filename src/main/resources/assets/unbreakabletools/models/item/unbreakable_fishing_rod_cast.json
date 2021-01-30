@@ -1,5 +1,5 @@
 {
-    "parent": "item/fishing_rod",
+    "parent": "unbreakabletools:item/unbreakable_fishing_rod",
     "textures": {
         "layer0": "unbreakabletools:items/unbreakable_fishing_rod_cast"
     }

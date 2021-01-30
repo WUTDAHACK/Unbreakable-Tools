@@ -1,14 +1,17 @@
 package omgitzbunnygirl.unbreakabletools;
 
-import net.minecraft.creativetab.CreativeTabs;
+import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-@Mod(modid = UnbreakableTools.MODID, version = UnbreakableTools.VERSION, name = UnbreakableTools.NAME)
+@Mod(UnbreakableTools.MODID)
 public class UnbreakableTools
 {
     public static final String MODID = "unbreakabletools";
-    public static final String VERSION = "0.1.0";
-    public static final String NAME = "Unbreakable Tools";
 
-    public static final CreativeTabs UNBREKABLE_TOOLS_TAB = new UnbreakableToolsTab();
+    public UnbreakableTools() {
+        final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        RegistrationHandler.ITEMS.register(modEventBus);
+    }
 }
