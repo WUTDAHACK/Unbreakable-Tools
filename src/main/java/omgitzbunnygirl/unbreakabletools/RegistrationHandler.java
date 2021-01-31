@@ -57,7 +57,7 @@ public class RegistrationHandler {
     public static final RegistryObject<Item> UNBREAKABLE_NETHERITE_SWORD = ITEMS.register("unbreakable_netherite_sword", () -> new UnbreakableSwordItem(ItemTier.NETHERITE, 3, -2.4F, (new Item.Properties()).group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP)));
 
     // Other Tools
-    public static final RegistryObject<Item> UNBREAKABLE_BOW = ITEMS.register("unbreakable_bow", () -> new UnbreakableBowItem((new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP).maxDamage(2147483647))));
-    public static final RegistryObject<Item> UNBREAKABLE_FISHING_ROD = ITEMS.register("unbreakable_fishing_rod", () -> new UnbreakableFishingRodItem(new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP).maxDamage(2147483647)));
-    public static final RegistryObject<Item> UNBREAKABLE_SHEARS = ITEMS.register("unbreakable_shears", () -> new UnbreakableShearsItem(new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP).maxDamage(2147483647)));
+    public static final RegistryObject<Item> UNBREAKABLE_BOW = ITEMS.register("unbreakable_bow", () -> new UnbreakableBowItem((new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP))));
+    public static final RegistryObject<Item> UNBREAKABLE_FISHING_ROD = ITEMS.register("unbreakable_fishing_rod", () -> new UnbreakableFishingRodItem(new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP)));
+    public static final RegistryObject<Item> UNBREAKABLE_SHEARS = ITEMS.register("unbreakable_shears", () -> new UnbreakableShearsItem(new Item.Properties().group(UnbreakableToolsItemGroups.UNBREAKABLE_TOOLS_ITEM_GROUP)));
 }
