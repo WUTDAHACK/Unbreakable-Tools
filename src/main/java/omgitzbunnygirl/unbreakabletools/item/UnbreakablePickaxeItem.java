@@ -11,6 +11,11 @@ public class UnbreakablePickaxeItem extends PickaxeItem {
     }
 
     @Override
+    public boolean isDamageable() {
+        return false;
+    }
+
+    @Override
     public boolean hasEffect(ItemStack stack) {
         return true;
     }

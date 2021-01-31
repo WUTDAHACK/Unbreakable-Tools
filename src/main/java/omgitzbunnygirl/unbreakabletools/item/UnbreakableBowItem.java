@@ -9,6 +9,11 @@ public class UnbreakableBowItem extends BowItem {
     }
 
     @Override
+    public boolean isDamageable() {
+        return false;
+    }
+
+    @Override
     public boolean hasEffect(ItemStack stack) {
         return true;
     }
