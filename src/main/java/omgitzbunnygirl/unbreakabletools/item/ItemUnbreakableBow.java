@@ -21,10 +21,11 @@ public class ItemUnbreakableBow extends ItemBow {
     public String registryName = "unbreakable_bow";
 
     public ItemUnbreakableBow() {
+
+      setMaxDamage(0);
       setTranslationKey(UnbreakableTools.MODID + "." + translationKey);
       setRegistryName(registryName);
       setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);
-      setMaxDamage(2147483647);
       setMaxStackSize(1);
         this.addPropertyOverride(new ResourceLocation("pull"), new IItemPropertyGetter()
         {

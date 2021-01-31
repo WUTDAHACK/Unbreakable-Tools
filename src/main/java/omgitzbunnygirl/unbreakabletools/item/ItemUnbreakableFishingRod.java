@@ -20,10 +20,10 @@ public class ItemUnbreakableFishingRod extends ItemFishingRod {
 
     public ItemUnbreakableFishingRod() {
 
+        setMaxDamage(0);
         setTranslationKey(UnbreakableTools.MODID + "." + translationKey);
         setRegistryName(registryName);
         setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);
-        setMaxDamage(2147483647);
         setMaxStackSize(1);
         this.addPropertyOverride(new ResourceLocation("cast"), new IItemPropertyGetter()
         {

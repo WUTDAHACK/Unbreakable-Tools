@@ -9,6 +9,7 @@ public class ItemUnbreakableAxe extends ItemAxe {
     public ItemUnbreakableAxe(Item.ToolMaterial material, float damage, float speed) {
         super(material, damage, speed);
         setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);
+        setMaxDamage(0);
     }
 
     @Override

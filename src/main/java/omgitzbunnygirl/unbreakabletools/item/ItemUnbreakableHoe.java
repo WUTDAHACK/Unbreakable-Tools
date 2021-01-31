@@ -10,6 +10,7 @@ public class ItemUnbreakableHoe extends ItemHoe {
     public ItemUnbreakableHoe(Item.ToolMaterial material, String unlocalizedName, String registryName) {
         super(material);
 
+        setMaxDamage(0);
         setTranslationKey(UnbreakableTools.MODID + "." + unlocalizedName);
         setRegistryName(registryName);
         setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);

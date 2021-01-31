@@ -10,10 +10,12 @@ public class ItemUnbreakablePickaxe extends ItemPickaxe {
     public ItemUnbreakablePickaxe(ToolMaterial material, String translationKey, String registryName) {
         super(material);
 
+        setMaxDamage(0);
         setTranslationKey(UnbreakableTools.MODID + "." + translationKey);
         setRegistryName(registryName);
         setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);
     }
+
 
     @Override
     public boolean hasEffect(ItemStack stack) {

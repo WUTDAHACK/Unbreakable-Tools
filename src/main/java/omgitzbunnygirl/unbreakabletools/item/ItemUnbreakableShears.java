@@ -12,10 +12,10 @@ public class ItemUnbreakableShears extends ItemShears {
 
     public ItemUnbreakableShears() {
 
+        setMaxDamage(0);
         setTranslationKey(UnbreakableTools.MODID + "." + translationKey);
         setRegistryName(registryName);
         setCreativeTab(UnbreakableTools.UNBREKABLE_TOOLS_TAB);
-        setMaxDamage(2147483647);
         setMaxStackSize(1);
     }
 
