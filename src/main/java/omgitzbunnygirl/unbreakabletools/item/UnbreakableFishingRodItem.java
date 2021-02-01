@@ -9,11 +9,6 @@ public class UnbreakableFishingRodItem extends FishingRodItem {
     }
 
     @Override
-    public boolean isDamageable() {
-        return false;
-    }
-
-    @Override
     public boolean hasEffect(ItemStack stack) {
         return true;
     }

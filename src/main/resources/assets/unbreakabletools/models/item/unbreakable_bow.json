@@ -44,7 +44,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "unbreakable:item/unbreakable_bow_pulling_2"
+            "model": "unbreakabletools:item/unbreakable_bow_pulling_2"
         }
     ]
 }
